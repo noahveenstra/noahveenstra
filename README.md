@@ -1,6 +1,6 @@
 - 👋🏼 Hey, I’m Noah
-- 🌱 I’m currently a student at Michigan State University studying User Experience Architecture
-- 👀 I’m interested in creating unique experiences for users especially relating to web design or UI Design
+- 🌱 I’m currently a marketing professional working at CORE Construction 
+- 🔨 Right now, I'm building Arbor, a note taking app that let's you forget
 - 📫 You can reach me at noahveenstra@icloud.com or through my <a href="http://noahveenstra.com/" target="_blank">site</a>.
 
 <!---
